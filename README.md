@@ -71,3 +71,11 @@
 | 20922 |  [겹치는 건 싫어](https://www.acmicpc.net/problem/20922)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 | 2531 |  [회전 초밥](https://www.acmicpc.net/problem/2531)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |
 | 2467  | [용액](https://www.acmicpc.net/problem/2467)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+
+### 🚩 week 9
+| 문제 |  제목 |  rank |
+| :---: | :---: | :---: |
+| 14719  | [빗물](https://www.acmicpc.net/problem/14719) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |
+| 20207 |  [달력](https://www.acmicpc.net/problem/20207)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 2615 |  [오목](https://www.acmicpc.net/problem/2615)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |
+| 16926  | [배열 돌리기 1](https://www.acmicpc.net/problem/16926)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
