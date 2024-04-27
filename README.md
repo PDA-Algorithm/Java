@@ -95,3 +95,11 @@
 | 12919 |  [A와 B 2](https://www.acmicpc.net/problem/12919)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 1025 |  [제곱수 찾기](https://www.acmicpc.net/problem/1025)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |
 | 17626  | [Four Squares](https://www.acmicpc.net/problem/17626)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+
+### 🚩 week 12 - 시뮬레이션
+| 문제 |  제목 |  rank |
+| :---: | :---: | :---: |
+| 5212  | [지구 온난화](https://www.acmicpc.net/problem/5212) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 20436 |  [ZOAC 3](https://www.acmicpc.net/problem/20436)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+| 16234 |  [인구 이동](https://www.acmicpc.net/problem/16234)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/>  |
+| 21610  | [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
