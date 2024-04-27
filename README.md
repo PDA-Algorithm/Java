@@ -79,3 +79,11 @@
 | 20207 |  [달력](https://www.acmicpc.net/problem/20207)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 2615 |  [오목](https://www.acmicpc.net/problem/2615)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>  |
 | 16926  | [배열 돌리기 1](https://www.acmicpc.net/problem/16926)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+
+### 🚩 week 10 - 그래프 탐색
+| 문제 |  제목 |  rank |
+| :---: | :---: | :---: |
+| 17836  | [공주님을 구해라!](https://www.acmicpc.net/problem/17836) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |
+| 7576 |  [토마토](https://www.acmicpc.net/problem/7576)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 7569 |  [토마토](https://www.acmicpc.net/problem/7569)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |
+| 2606  | [바이러스](https://www.acmicpc.net/problem/2606)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
