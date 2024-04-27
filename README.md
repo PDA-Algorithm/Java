@@ -87,3 +87,11 @@
 | 7576 |  [토마토](https://www.acmicpc.net/problem/7576)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
 | 7569 |  [토마토](https://www.acmicpc.net/problem/7569)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |
 | 2606  | [바이러스](https://www.acmicpc.net/problem/2606)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+
+### 🚩 week 11 - 완전 탐색
+| 문제 |  제목 |  rank |
+| :---: | :---: | :---: |
+| 2961  | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |
+| 12919 |  [A와 B 2](https://www.acmicpc.net/problem/12919)  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+| 1025 |  [제곱수 찾기](https://www.acmicpc.net/problem/1025)       | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/>  |
+| 17626  | [Four Squares](https://www.acmicpc.net/problem/17626)      | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
